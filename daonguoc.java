@@ -1,4 +1,4 @@
-package Assigment;
+package LeetCode;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 package LeetCode;
 import java.util.Scanner;
 
-public class baitap {
+public class BaiTap_11_8 {
     public static int gt(int n) {
         int temp = 1;
         for (int i = 1; i <= n; i++) {
